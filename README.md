@@ -5,11 +5,11 @@
 
 ## 🛠 Tools & Technologies
 
-- 🔸 Ubuntu (Linux)
-- 🔸 AWS EC2 Instance
-- 🔸 SSH (Secure Shell)
-- 🔸 Linux User Management Commands (`adduser`, `groupadd`, `usermod`, `chown`, `chmod`)
-- 🔸 Terminal (Bash)
+- Ubuntu (Linux)
+- AWS EC2 Instance
+- SSH (Secure Shell)
+- Linux User Management Commands (`adduser`, `groupadd`, `usermod`, `chown`, `chmod`)
+- Terminal (Bash)
 
 ## 🚀 Project Overview
 This project includes:
